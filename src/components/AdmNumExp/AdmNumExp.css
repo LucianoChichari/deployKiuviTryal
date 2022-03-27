@@ -1,0 +1,53 @@
+
+
+.MuiTable-root{
+    background-color: #E3DCCA !important;
+    border-bottom: none !important;
+    color: black !important;
+}
+.MuiTablePagination-root{
+    background-color: #E3DCCA !important;
+    border-bottom: none !important;
+    color: black !important;
+}
+.MuiTablePagination-displayedRows{
+    color: black !important;
+}
+td{
+    color: black !important;
+}
+th{
+    color: black !important;
+}
+.selectLabel{
+    color: black !important;
+}
+.MuiTablePagination-selectIcon{
+    color: black !important;
+}
+.MuiTableRow-root{
+    color: black !important;
+    
+    font-family: "Lucida Console", "Courier New", monospace !important;
+}
+
+.MuiTableRow-root{
+    color: black !important;
+}
+
+.MuiTableCell-root{
+    color: rgb(0, 0, 0) !important;
+}
+.MuiTableHead-root{
+    color: black !important; 
+}
+
+.MuiTypography-root{
+    color: black !important;
+}
+.MuiTablePagination{
+    color: black !important;
+}
+.MuiSelect-root{
+    color: black !important;
+}

@@ -1,0 +1,58 @@
+.addunitbtn{
+    float: right;
+    margin-right: 225px;
+    background-color:  #12212C;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #1DC8C8;
+    width: 200px;
+    height: 42px;
+    left: 1243px;
+    top: 307px; 
+    box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px #1DC8C8;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#boton{
+    float: right;
+    margin-right: 225px;
+    background-color:  #CDAF8F;
+    display: flex;
+    color: black;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #4D2415;
+    width: 200px;
+    height: 42px;
+    left: 1243px;
+    top: 307px; 
+    box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px #4D2415;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+#a{
+    float: right !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+}
+
+.browser-default{
+    background-color:  #ffffff !important;
+    color: rgb(0, 0, 0) !important;   
+}
+
+#modal-modal-title{
+    color: white;
+}
+
+#Detalle{
+    color: white;
+}

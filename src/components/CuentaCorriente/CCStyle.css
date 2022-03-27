@@ -1,0 +1,27 @@
+.tablecontainerclass{
+    margin-top: 10%;
+    margin-right: 10px;
+    margin-left: 10px;
+    max-width: 950px !important;
+}
+.allintable{
+    background-color: transparent !important;
+}
+.estadodepago{
+    font-weight: bold;
+    font-size: 0.75rem;
+    color: white !important;
+    background-color: grey;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 4px;
+    display: inline-block;
+}
+.tablepagination{
+    margin-left: 0px;
+    background-color: transparent !important;
+}
+
+.tableheader{
+    font-weight: bold;
+}

@@ -1,0 +1,26 @@
+.searchbar{
+    height: 35px;
+    width: 250px;
+    float: left;
+}
+.label-icon{
+    float: right;
+}
+#Dropdown_8{
+    background-color:rgb(255, 255, 255)
+}
+
+.button{
+    text-transform: none;
+}
+.SB{
+    margin-left: 225px;
+    display:inline-block;
+    text-align:center;
+    box-sizing: border-box;
+}
+
+#arrow{
+    display: inline;
+}
+

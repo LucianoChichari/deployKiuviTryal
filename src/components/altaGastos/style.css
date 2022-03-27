@@ -1,0 +1,211 @@
+
+#boton{
+    float: right;
+    margin-right: 225px;
+    background-color:  #CDAF8F;
+    display: flex;
+    color: black;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #4D2415;
+    width: 200px;
+    height: 42px;
+    left: 1243px;
+    top: 307px; 
+    box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px #4D2415;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.browser-default{
+    background-color:  #ffffff !important;
+    color: rgb(0, 0, 0) !important;   
+}
+
+.prueba{
+    background-color: #e9e7e3 ;
+    font-weight: lighter;
+    color: white;
+}
+
+#selecciondeunidadoconsorcio{
+    width: 120px;
+    float: left;
+}
+
+
+#consorcio{
+    width: 200px,
+}
+
+.unidadyprop{
+    display: flex;
+}
+
+#UnidadShowcase{
+    margin-left: 30px;
+    width: 120px;
+    margin-right: 20px;
+}
+#PropietarioShowcase{
+    margin-right: 20px;
+    width: 120px;
+}
+#FechaAltaGastos{
+    width: 200px;
+    margin-right: 20px;
+    float: right;
+    height: 40px;
+    margin-bottom: 0px;
+}
+#selectconsorcio{
+    height: 40px;
+    margin-right: 10px;
+    width: 420px;
+    float: left!important;
+    margin-left: 10px;
+    position: relative;
+}
+#selectconsorcio7{
+    height: 40px;
+    width: 320px;
+    float: left;
+    position: relative;
+    margin-left: 20px;
+}
+#selectconsorcio5{
+    height: 40px;
+    width: 320px;
+    float: LEFT;
+    margin-top: 20px;
+    position: relative;
+    margin-left: 20px;
+    margin-right: 150px;
+}
+#selectconsorcio3{
+    height: 40px;
+    margin-right: 10px;
+    width: 420px;
+    float: right;
+    margin-left: 10px;
+    position: relative;
+}
+#selectconsorcioonconsorcio{
+    height: 40px;
+    margin-right: 10px;
+    width: 440px;
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+}
+
+#selectconsorcio2{
+    height: 40px;
+    width: 320px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: right;
+    position: relative
+}
+
+#periodogasto{
+    margin-top: 30px;
+    width: 200px;
+}
+
+#periodoaliq{
+    margin-top: 30px;
+    width: 200px;
+}
+#periodoaliq2{
+    margin-top: 30px;
+    width: 150px;
+    margin-left: 100px;
+}
+#contenedortop{
+    width: 500px;
+    position: absolute;
+}
+#separador{
+    margin-top: 60px;
+}
+#separador2{
+    margin-top: 20px;
+}
+#selectconsorcioxi{
+    height: 40px;
+    width: 640px;
+    float: left;
+    position: relative;
+    margin-left: 20px;
+}
+#separador3{
+    margin-top: 60px;
+}
+
+.Toastify__toast-body {
+    width: 100px !important;
+    
+}
+#separador5{
+    margin-top: 20px;
+}
+.notificacion{
+    width: 120px;
+    
+    background-color: rgba(0, 0, 0, 0);
+    border: rgba(0, 0, 0, 0);
+}
+.browser-default{
+    border-style: inset !important;
+    outline-color: rgb(33, 199, 61) !important;
+}
+#conceptostyle{
+    width: 480px;
+    margin-left: 0px;
+}
+
+#botonguardado6{
+    float: right;
+    width: 100px;
+}
+
+#importe{
+    width: 200px;
+}
+#nrocomp{
+    width: 200px; 
+}
+
+#descripcion{
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;
+}
+
+#contenedorconsorcio{
+    margin-right: 610px;
+    margin-left: 30px;
+}
+.botonesdecambio{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+#botoncambio2{
+    margin-left: 10px;
+}
+#selectconsorcio6{
+    height: 40px;
+    width: 620px;
+    float: left;
+    position: relative;
+    margin-left: 20px;
+}
+#botondecambio1{
+    margin-right: 20px !important;
+}
+#botondecambio2{
+    margin-left: 10px !important;
+}

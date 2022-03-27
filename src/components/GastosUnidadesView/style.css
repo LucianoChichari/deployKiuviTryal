@@ -1,0 +1,124 @@
+
+#boton{
+    float: right;
+    margin-right: 225px;
+    background-color:  #CDAF8F;
+    display: flex;
+    color: black;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #4D2415;
+    width: 200px;
+    height: 42px;
+    left: 1243px;
+    top: 307px; 
+    box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px #4D2415;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.botonesdecambio{
+    margin-bottom: 30px;
+}
+.browser-default{
+    background-color:  #ffffff !important;
+    color: rgb(0, 0, 0) !important;   
+}
+
+.prueba{
+    background-color: #e9e7e3 ;
+    font-weight: lighter;
+    color: white;
+}
+
+#selecciondeunidadoconsorcio{
+    width: 120px;
+    float: left;
+}
+
+#ConsorcioShowcase{
+    display: flex;
+    margin-left: 150px;
+    width: 300px;
+}
+.unidadyprop{
+    display: flex;
+}
+
+#UnidadShowcase{
+    margin-left: 30px;
+    width: 120px;
+    margin-right: 20px;
+}
+#PropietarioShowcase{
+    margin-right: 20px;
+    width: 120px;
+}
+#FechaAltaGastos{
+    width: 200px;
+    margin-right: 20px;
+    float: right;
+    height: 40px;
+    margin-bottom: 0px;
+}
+#selectconsorcio{
+    height: 40px;
+    margin-right: 10px;
+    width: 220px;
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+}
+#selectconsorcio3{
+    float: center;
+    margin-bottom: 30px;
+}
+#selectconsorcio2{
+    height: 40px;
+    width: 220px;
+    margin-right: 0px;
+    float: right;
+    position: relative
+}
+#periodogasto{
+    width: 200px;
+}
+#periodoaliq{
+    width: 200px;
+}
+#contenedortop{
+    width: 500px;
+    position: absolute;
+}
+
+#conceptostyle{
+    width: 480px;
+    margin-left: 0px;
+    
+}
+#botonguardado{
+    float: right;
+    
+}
+
+#importe{
+    width: 200px;
+}
+#nrocomp{
+    width: 200px; 
+}
+#descripcion{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.searchtitle{
+    margin-left: 350px;
+}
+#botondecambio1{
+    margin-right: 170px;
+}
+#botondecambio2{
+    margin-left: 170px;
+}
